@@ -1,13 +1,13 @@
 # SubMap_Tool
-Tool that blend sublist3r with nmap and automatically scans subdomains
+Tool that blend subfinder with nmap and automatically scans subdomains
 
-Search subdomains with sublist3r and scan each subdomain with nmap
+Search subdomains with sunfinder and scan each subdomain with nmap
 Create a txt with subdomains and other txt with info about each subdomain
 
 # Requiremets
  - Kali linux / Ubuntu / Debian
  - Python 3.x
- - Sublist3r
+ - Subfinder
  - Nmap
  - Git
 
